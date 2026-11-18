@@ -1,0 +1,6 @@
+{
+  "name": "ნელა, იაკობ! — დედა ენის გზა",
+  "description": "იაკობ გოგებაშვილის 2D სათავგადასავლო თამაში: გაიარე საფეხურები და შეაგროვე ქართული ანბანის ცნობილი გამონათქვამები ა-დან ჰ-მდე.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
